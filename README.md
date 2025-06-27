@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CurtainXxxx
-- 👀 I’m interested in ai，basketball，programming.
+- 👀 I’m interested in ai，basketball，programming，network safety.
 - 🌱 I’m currently learning software engering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...18617346516@163.com
