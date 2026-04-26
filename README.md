@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning software engering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...18617346516@163.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...Talk is cheap.show me the code.
 
 <!---
