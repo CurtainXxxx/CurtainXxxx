@@ -1,6 +1,6 @@
 ﻿## Hi there 👋 I'm Xiaojian Fei (CurtainXxxx)
 
-🎓 Software Engineering (创新班) @ 岭南师范学院 | 🤖 LLM Agent Researcher | 💻 Full-stack Developer
+🎓 Software Engineering (创新班) @ 岭南师范学院 | 🤖 LLM Agent Developer | 💻 Full-stack Developer
 
 - 🏅 校级二等奖学金 | CET-6 520 / CET-4 609
 
@@ -16,7 +16,7 @@
 - **LLM / Agent:** LangChain, LangGraph, Coze, DeepSeek, Claude API
 - **Backend:** FastAPI, SQLite, Spring Boot, MyBatis-Plus, MySQL
 - **Frontend:** Vue 3, Element Plus, ECharts, HTML/CSS
-- **Tools:** Git, Docker（基础）, Linux, Kali Linux
+- **Tools:** Git, Docker（基础）, Linux
 - **Document:** python-docx, lxml / XML, 多格式解析（docx / xlsx / pdf）
 
 ### 📌 Featured Projects
