@@ -30,5 +30,3 @@
 
 - GitHub: [@CurtainXxxx](https://github.com/CurtainXxxx)
 - Email: feixiaojian9@gmail.com
-
-> 正在用 Agent 让文档自己填写自己 🚀
