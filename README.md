@@ -21,7 +21,6 @@
 
 ### 📌 Featured Projects
 
-- 🤖 [**教务文档智能填充系统**](https://github.com/CurtainXxxx/doc-auto-fillter) — LangChain + LangGraph 多 Agent 协作，LLM + 规则双引擎知识提取，XML 级格式保真填充，FastAPI 服务化
 - 🛒 [**饿了么商家管理系统**](https://github.com/CurtainXxxx/eleme-merchant-management-system) — Spring Boot + Vue 3 全栈，RBAC 权限控制，BCrypt 加密
 - 👁️ [**计算机视觉课程作业集**](https://github.com/CurtainXxxx/computer-vision-assignments) — Python CV 经典算法实现
 - 📊 [**教育资源智慧配置云图**](https://github.com/CurtainXxxx/education-visualizaion) — JavaScript + ECharts 全国教育数据可视化平台，GitHub Pages 部署
