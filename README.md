@@ -2,8 +2,6 @@
 
 🎓 Software Engineering (创新班) @ 岭南师范学院 | 🤖 LLM Agent Developer | 💻 Full-stack Developer
 
-- 🏅 校级二等奖学金 | CET-6 520 / CET-4 609
-
 ### 🔬 Research Interests
 
 - **LLM Agent 系统架构** — LangChain / LangGraph 下的多 Agent 协作与工具链设计
