@@ -1,30 +1,42 @@
-﻿## Hi there 👋 I'm Xiaojian Fei (CurtainXxxx)
+## Hi there 👋 I'm Xiaojian Fei (CurtainXxxx)
 
-🎓 Software Engineering (创新班) @ 岭南师范学院 | 🤖 LLM Agent Developer | 💻 Full-stack Developer
+🎓 Software Engineering @ Lingnan Normal University  
+🤖 LLM Agent Developer
 
 ### 🔬 Research Interests
 
-- **LLM Agent 系统架构** — LangChain / LangGraph 下的多 Agent 协作与工具链设计
-- **Prompt Engineering 与可控生成** — 结构化提示策略在文档理解场景中的应用
-- **AI 辅助文档理解** — LLM 驱动的格式化文档结构化信息抽取与知识映射
+- **Multi-Agent Collaboration** — Agent orchestration, conditional routing, and state sharing in LangGraph
+- **Agent Tool-Use & Planning** — Tool comprehension, sub-task decomposition, and execution path optimization for LLM-based agents
+- **Document Agent** — Agent-driven semi-structured document understanding, information extraction, and automated form filling
+
+### 🏆 Achievements
+
+- **🥈 Guangdong Computer Design Competition — AI Agent Track, 2nd Prize** (2026)
+  Multi-agent collaborative document generation system — ranked 3rd out of 28 teams
 
 ### 🛠 Tech Stack
 
-- **Languages:** Python（主力）, JavaScript / TypeScript, SQL, C, Java
+- **Languages:** Python (primary), JavaScript / TypeScript, SQL, C, Java
 - **LLM / Agent:** LangChain, LangGraph, Coze, DeepSeek, Claude API
 - **Backend:** FastAPI, SQLite, Spring Boot, MyBatis-Plus, MySQL
 - **Frontend:** Vue 3, Element Plus, ECharts, HTML/CSS
-- **Tools:** Git, Docker（基础）, Linux
-- **Document:** python-docx, lxml / XML, 多格式解析（docx / xlsx / pdf）
+- **Tools:** Git, Docker (basic), Linux
+- **Document:** python-docx, lxml / XML, multi-format parsing (docx / xlsx / pdf)
 
 ### 📌 Featured Projects
 
-- 🛒 [**饿了么商家管理系统**](https://github.com/CurtainXxxx/eleme-merchant-management-system) — Spring Boot + Vue 3 全栈，RBAC 权限控制，BCrypt 加密
-- 👁️ [**计算机视觉课程作业集**](https://github.com/CurtainXxxx/computer-vision-assignments) — Python CV 经典算法实现
-- 📊 [**教育资源智慧配置云图**](https://github.com/CurtainXxxx/education-visualizaion) — JavaScript + ECharts 全国教育数据可视化平台，GitHub Pages 部署
-- 🌐 [**个人网站**](https://github.com/CurtainXxxx/personal_website) — HTML/CSS/JS 个人主页
+- 🤖 **FormWise** *(private — currently competing)* — Multi-agent document auto-filling system using LangGraph + DeepSeek
+
+- 🛒 [**Eleme Merchant Management System**](https://github.com/CurtainXxxx/eleme-merchant-management-system) — Spring Boot + Vue 3 full-stack, RBAC, BCrypt encryption
+- 👁️ [**Computer Vision Assignments**](https://github.com/CurtainXxxx/computer-vision-assignments) — Classic CV algorithms in Python
+- 📊 [**Education Resource Visualization**](https://github.com/CurtainXxxx/education-visualizaion) — National education data visualization with ECharts, deployed on GitHub Pages
+- 🌐 [**Personal Website**](https://github.com/CurtainXxxx/personal_website) — HTML/CSS/JS personal homepage
+- 📚 [**Library Management System**](https://github.com/CurtainXxxx/library-management-system) — PHP full-stack project
+- 💬 [**Multi-user Chat Analysis System**](https://github.com/CurtainXxxx/multi-user-chat-analysis-system) — FastAPI + WebSocket + jieba + word cloud
 
 ### 📫 Let's Connect
 
 - GitHub: [@CurtainXxxx](https://github.com/CurtainXxxx)
 - Email: feixiaojian9@gmail.com
+
+![CurtainXxxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=CurtainXxxx&show_icons=true&theme=radical)
