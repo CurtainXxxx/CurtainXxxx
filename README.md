@@ -1,42 +1,34 @@
-## Hi there 👋 I'm Xiaojian Fei (CurtainXxxx)
+## Hi, I'm Xiaojian Fei (CurtainXxxx)
 
-🎓 Software Engineering @ Lingnan Normal University  
-🤖 LLM Agent Developer
+🎓 Software Engineering undergraduate at Lingnan Normal University  
+🔬 Exploring multimodal video agents and evaluation
 
-### 🔬 Research Interests
+### Research Interests
 
-- **Multi-Agent Collaboration** — Agent orchestration, conditional routing, and state sharing in LangGraph
-- **Agent Tool-Use & Planning** — Tool comprehension, sub-task decomposition, and execution path optimization for LLM-based agents
-- **Document Agent** — Agent-driven semi-structured document understanding, information extraction, and automated form filling
+- **Multimodal Video Agents** — How agents plan and execute video-related tasks
+- **Agent Tool Use** — Tool calling, MCP-based integrations, and end-to-end execution workflows
+- **Agent Evaluation** — Evaluation design, reproducibility, and reliability analysis
 
-### 🏆 Achievements
+### Current Research Project
 
-- **🥈 Guangdong Computer Design Competition — AI Agent Track, 2nd Prize** (2026)
-  Multi-agent collaborative document generation system — ranked 3rd out of 28 teams
+- **[UniVA](https://github.com/CurtainXxxx/univa) — Reproduction and engineering extensions of an open-source video agent**
+  - Implemented an evaluation runner with three execution modes and four metrics, including CLIP, DINO, and MLLM-as-a-judge.
+  - Reproduced LVU evaluation at **74.8%** using the full QA set and 64 frames (reported paper result: 76%).
+  - Implemented User and Global memory components and integrated them into the planning context.
+  - Reworked the long-video editing chunking pipeline and addressed issues in API retries, frame adaptation, and storyboard image paths.
 
-### 🛠 Tech Stack
+### Technical Skills
 
-- **Languages:** Python (primary), JavaScript / TypeScript, SQL, C, Java
-- **LLM / Agent:** LangChain, LangGraph, Coze, DeepSeek, Claude API
-- **Backend:** FastAPI, SQLite, Spring Boot, MyBatis-Plus, MySQL
-- **Frontend:** Vue 3, Element Plus, ECharts, HTML/CSS
-- **Tools:** Git, Docker (basic), Linux
-- **Document:** python-docx, lxml / XML, multi-format parsing (docx / xlsx / pdf)
+- **Programming:** Python (project and evaluation work), JavaScript / TypeScript, SQL; basic Java and C
+- **Agent Systems:** Plan-Act architecture, Agno, MCP tool integration
+- **Video & Evaluation:** FFmpeg, video-generation API integration, CLIP, DINO, MLLM-based evaluation
+- **Data & Engineering:** SQLite, Git, Linux; basic Docker
 
-### 📌 Featured Projects
+### Award
 
-- 🤖 **FormWise** *(private — currently competing)* — Multi-agent document auto-filling system using LangGraph + DeepSeek
+- **Guangdong Computer Design Competition — AI Agent Track, Second Prize** (2026; team ranked 3rd of 28)
 
-- 🛒 [**Eleme Merchant Management System**](https://github.com/CurtainXxxx/eleme-merchant-management-system) — Spring Boot + Vue 3 full-stack, RBAC, BCrypt encryption
-- 👁️ [**Computer Vision Assignments**](https://github.com/CurtainXxxx/computer-vision-assignments) — Classic CV algorithms in Python
-- 📊 [**Education Resource Visualization**](https://github.com/CurtainXxxx/education-visualizaion) — National education data visualization with ECharts, deployed on GitHub Pages
-- 🌐 [**Personal Website**](https://github.com/CurtainXxxx/personal_website) — HTML/CSS/JS personal homepage
-- 📚 [**Library Management System**](https://github.com/CurtainXxxx/library-management-system) — PHP full-stack project
-- 💬 [**Multi-user Chat Analysis System**](https://github.com/CurtainXxxx/multi-user-chat-analysis-system) — FastAPI + WebSocket + jieba + word cloud
-
-### 📫 Let's Connect
+### Contact
 
 - GitHub: [@CurtainXxxx](https://github.com/CurtainXxxx)
 - Email: feixiaojian9@gmail.com
-
-![CurtainXxxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=CurtainXxxx&show_icons=true&theme=radical)
